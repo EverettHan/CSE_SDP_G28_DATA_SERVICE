@@ -17,3 +17,5 @@ Make sure the data service is running first, then
 python batchPredict.py
 
 or start a debug session with batchPredict.py from VS node
+
+The MLWorker\covid_fine_tuned.h5 is omitted in this repos due to GitHub size limitation.
