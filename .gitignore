@@ -1,0 +1,14 @@
+# Python directories
+env
+**/__pycache__
+
+# IDE folders
+.idea
+.vscode
+
+# Production
+webservice/db.sqlite3
+**/migrations
+
+#h5
+MLWorker/covid_fine_tuned.h5
